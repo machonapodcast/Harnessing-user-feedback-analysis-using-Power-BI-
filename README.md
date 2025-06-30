@@ -1,2 +1,8 @@
-# Harnessing-user-feedback-analysis-using-Power-BI-
-Harnessing user feedback analysis using Power BI to enhance the product design
+# Harnessing user feedback analysis using Power BI to enhance the product design
+This study explores how user feedback, specifically in the form of app reviews, can be transformed into actionable insights for product design using Microsoft Power BI. Leveraging user-generated data from the Google Play Store, the research implements a feedback analysis pipeline from data collection and preprocessing to visualization to identify sentiment trends and feature-related concerns.
+
+The study begins by preprocessing and cleaning user reviews using Google Colab, applying basic sentiment classification and text normalization to prepare the data for visualization. The cleaned dataset is then imported into Power BI, where a suite of interactive dashboards is developed to visually represent user sentiments, commonly mentioned issues, feature requests, and satisfaction scores across multiple apps and categories.
+
+These dashboards aim to provide product teams with clear and interpretable data that supports iterative product improvement, helping designers and managers quickly identify pain points and prioritize updates. The research highlights the value of using low-code BI tools like Power BI for user experience enhancement and product innovation, especially in environments where advanced coding expertise may be limited.
+
+Through a case study approach, the dissertation demonstrates how Power BI can bridge the gap between unstructured feedback and strategic product decisions. The findings emphasize the role of data visualization in closing the loop between users and developers, showcasing a repeatable, scalable framework that can be adopted across various industries.
